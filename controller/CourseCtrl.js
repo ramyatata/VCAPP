@@ -1,1 +1,1 @@
-﻿
+﻿var ctrl = "testing";
